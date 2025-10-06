@@ -14,14 +14,14 @@ Languages and Tools:
 arduino
 c
 C++
-csharp
-css3
-html5
-java
-javascript
-linux
-mysql
-php
+C#
+CSS3
+HTML5
+Core Java
+JavaScript
+Linux
+MySql
+PHP
  
 
 

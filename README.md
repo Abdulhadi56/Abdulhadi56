@@ -10,18 +10,19 @@ Experienced in both Frontend and Backend development.
 Skilled in database management and video editing.
 
 
-🛠️ Skills
+🛠️ **Skills**
 Website Development (Frontend & Backend)
 Database: MySQL
 Programming Languages: C++, Core Java, Python
 Video Editing
 
 
-🌟 Featured Project
+🌟 **Featured Project**
 Tahir Clothing Center
 A full-featured clothing website designed and developed from scratch.
 
-📫 Contact Me
+📫 **Contact Me**
 Email: hadiriaz91@gmail.com👋
+
 
 
